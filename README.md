@@ -1,0 +1,1 @@
+Apparently when creating proc, from method defined in some Ruby class, behaviour of binding changes. This repo shows this difference and together with travis-ci it can provide guidances on different behaviour on different Ruby versions.
